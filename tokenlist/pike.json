@@ -1,0 +1,23 @@
+{
+  "name": "PIKE",
+  "logoURI": "https://pikeprotocol.com/uploads/tokens/PIKE.png",
+  "keywords": [
+    "PIKE",
+    "DEFI",
+    "yield"
+  ],
+  "timestamp": "2020-10-17T17:40:34.305Z",
+  "tokens": [{
+    "chainId": 1,
+    "address": "0x186ED770eEcEA82Def7C92DCC077C4Ba27acD5BD",
+    "name": "Pike Protocol",
+    "symbol": "Pike",
+    "decimals": 18,
+    "logoURI": "https://pikeprotocol.com/uploads/tokens/PIKE.png"
+  }],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
